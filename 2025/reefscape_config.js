@@ -221,7 +221,7 @@ var config_data = `
     },
     { "name": "Comments",
       "defaultValue": "none",
-      "code": "co",
+      "code": "c",
       "type": "text",
       "size": 15,
       "maxSize": 55

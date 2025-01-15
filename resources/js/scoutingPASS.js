@@ -776,6 +776,11 @@ for ( rb of document.getElementsByName('r')) { rb.checked = false };
 }
 
 
+function resetComment() {
+for ( co of document.getElementsByName('c')) { c.value = "none"};
+}
+
+
 function getLevel(){
 return document.forms.scoutingForm.l.value
 }
@@ -927,6 +932,9 @@ function clearForm() {
 
     // Robot
     resetRobot()
+
+    // Comment
+    resetComment()
   }
 
   // Clear XY coordinates
