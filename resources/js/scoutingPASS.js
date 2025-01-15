@@ -931,7 +931,7 @@ function clearForm() {
     }
 
     // Robot
-    resetRobot()
+    // resetRobot() Requested to not reset robot choice
 
     // Comment
     resetComment()
