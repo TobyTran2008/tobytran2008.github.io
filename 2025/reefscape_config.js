@@ -59,7 +59,7 @@ var config_data = `
     { "name": "Auto Start Position",
       "code": "as",
       "type": "clickable_image",
-      "filename": "2024/field_image.png",
+      "filename": "2025/reefscape_field_image.jpeg",
       "clickRestriction": "one",
       "allowableResponses": "1 12 13 24 25 36 37 48 49 60 61 72",
       "shape": "circle 5 black red true"
