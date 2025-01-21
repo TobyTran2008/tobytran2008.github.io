@@ -138,6 +138,10 @@ var config_data = `
         "x": "Not Attempted"
       },
       "defaultValue": "x"
+    },
+    { "name": "Algae Taken Off",
+      "code": "ato",
+      "type": "counter"
     }
   ],
   "endgame": [
